@@ -1,0 +1,1018 @@
+[
+    {
+        "name": "Adriana Barbosa Santos",
+        "most_cited_paper_title": "A elaboração de questionários na pesquisa quantitativa"
+    },
+    {
+        "name": "Aleardo Manacero Junior",
+        "most_cited_paper_title": "Teaching real-time with a scheduler simulator"
+    },
+    {
+        "name": "Arnaldo Candido Junior",
+        "most_cited_paper_title": "Yourtts: Towards zero-shot multi-speaker tts and zero-shot voice conversion for everyone"
+    },
+    {
+        "name": "Carlos Roberto Valêncio",
+        "most_cited_paper_title": "Real Time Delta Extraction Based on Triggers to Support Data Warehousing"
+    },
+    {
+        "name": "Carina Alexandra Rondini",
+        "most_cited_paper_title": "Pandemia do covid-19 e o ensino remoto emergencial: mudanças na práxis docente"
+    },
+    {
+        "name": "Prof. Dr. Diego Renan Bruno",
+        "most_cited_paper_title": "Image classification system based on deep learning applied to the recognition of traffic signs for intelligent robotic vehicle navigation purposes"
+    },
+    {
+        "name": "Geraldo Francisco Donega Zafalon",
+        "most_cited_paper_title": "SKPDB: a structural database of shikimate pathway enzymes"
+    },
+    {
+        "name": "Leandro Alves Neves",
+        "most_cited_paper_title": "Computational normalization of H&E-stained histological images: Progress, challenges and future potential"
+    },
+    {
+        "name": "Lucas C. Ribas",
+        "most_cited_paper_title": "Social interaction layers in complex networks for the dynamical epidemic modeling of COVID-19 in Brazil"
+    },
+    {
+        "name": "Marilaine Colnago",
+        "most_cited_paper_title": "Risk factors associated with mortality in hospitalized patients with COVID-19 during the Omicron wave in Brazil"
+    },
+    {
+        "name": "Renata Spolon-Lobato",
+        "most_cited_paper_title": "iSPD: an iconic-based modeling simulator for distributed grids."
+    },
+    {
+        "name": "Rodrigo Capobianco Guido",
+        "most_cited_paper_title": "Wavelet time-frequency analysis and least squares support vector machines for the identification of voice disorders"
+    },
+    {
+        "name": "Rogéria Cristiane Gratão Souza",
+        "most_cited_paper_title": "MR-Radix: a multi-relational data mining algorithm"
+    },
+    {
+        "name": "Geoffrey Hinton",
+        "most_cited_paper_title": "Imagenet classification with deep convolutional neural networks"
+    },
+    {
+        "name": "Yann LeCun",
+        "most_cited_paper_title": "Deep learning"
+    },
+    {
+        "name": "Yoshua Bengio",
+        "most_cited_paper_title": "Deep learning"
+    },
+    {
+        "name": "Ian Goodfellow",
+        "most_cited_paper_title": "Generative adversarial networks"
+    },
+    {
+        "name": "Alexey Dosovitskiy",
+        "most_cited_paper_title": "An image is worth 16x16 words: Transformers for image recognition at scale"
+    },
+    {
+        "name": "Lucas Beyer",
+        "most_cited_paper_title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+    },
+    {
+        "name": "Alexander Kolesnikov",
+        "most_cited_paper_title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+    },
+    {
+        "name": "Dirk Weissenborn",
+        "most_cited_paper_title": "An image is worth 16x16 words: Transformers for image recognition at scale"
+    },
+    {
+        "name": "Xiaohua Zhai",
+        "most_cited_paper_title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+    },
+    {
+        "name": "Thomas Unterthiner",
+        "most_cited_paper_title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+    },
+    {
+        "name": "Mostafa Dehghani",
+        "most_cited_paper_title": "An image is worth 16x16 words: Transformers for image recognition at scale"
+    },
+    {
+        "name": "Matthias Minderer",
+        "most_cited_paper_title": "An image is worth 16x16 words: Transformers for image recognition at scale"
+    },
+    {
+        "name": "Georg Heigold",
+        "most_cited_paper_title": "An image is worth 16x16 words: Transformers for image recognition at scale"
+    },
+    {
+        "name": "Sylvain Gelly",
+        "most_cited_paper_title": "An image is worth 16x16 words: Transformers for image recognition at scale"
+    },
+    {
+        "name": "Jakob Uszkoreit",
+        "most_cited_paper_title": "Attention is all you need"
+    },
+    {
+        "name": "Neil Houlsby",
+        "most_cited_paper_title": "An image is worth 16x16 words: Transformers for image recognition at scale"
+    },
+    {
+        "name": "Ting Chen",
+        "most_cited_paper_title": "Modeling gene expression with differential equations"
+    },
+    {
+        "name": "Simon Kornblith",
+        "most_cited_paper_title": "A simple framework for contrastive learning of visual representations"
+    },
+    {
+        "name": "Mohammad Norouzi",
+        "most_cited_paper_title": "A Simple Framework for Contrastive Learning of Visual Representations"
+    },
+    {
+        "name": "Jean-bastien Grill",
+        "most_cited_paper_title": "Bootstrap your own latent-a new approach to self-supervised learning"
+    },
+    {
+        "name": "Florian STRUB",
+        "most_cited_paper_title": "Bootstrap your own latent-a new approach to self-supervised learning"
+    },
+    {
+        "name": "Florent Altché",
+        "most_cited_paper_title": "Bootstrap your own latent-a new approach to self-supervised learning"
+    },
+    {
+        "name": "Corentin Tallec",
+        "most_cited_paper_title": "Bootstrap your own latent-a new approach to self-supervised learning"
+    },
+    {
+        "name": "Elena Buchatskaya",
+        "most_cited_paper_title": "Bootstrap your own latent-a new approach to self-supervised learning"
+    },
+    {
+        "name": "Carl Doersch",
+        "most_cited_paper_title": "Bootstrap Your Own Latent-A New Approach to Self-Supervised Learning"
+    },
+    {
+        "name": "Zhaohan Daniel Guo",
+        "most_cited_paper_title": "Bootstrap your own latent-a new approach to self-supervised learning"
+    },
+    {
+        "name": "koray kavukcuoglu",
+        "most_cited_paper_title": "Human-level control through deep reinforcement learning"
+    },
+    {
+        "name": "Rémi Munos",
+        "most_cited_paper_title": "Bootstrap your own latent-a new approach to self-supervised learning"
+    },
+    {
+        "name": "Michal Valko",
+        "most_cited_paper_title": "Bootstrap your own latent: A new approach to self-supervised learning"
+    },
+    {
+        "name": "Kaiming He",
+        "most_cited_paper_title": "Deep Residual Learning for Image Recognition"
+    },
+    {
+        "name": "Xiangyu Zhang",
+        "most_cited_paper_title": "Deep residual learning for image recognition"
+    },
+    {
+        "name": "Jian Sun",
+        "most_cited_paper_title": "Deep residual learning for image recognition"
+    },
+    {
+        "name": "Gao Huang （黄高）",
+        "most_cited_paper_title": "Densely connected convolutional networks"
+    },
+    {
+        "name": "Zhuang Liu",
+        "most_cited_paper_title": "PEGylated nanographene oxide for delivery of water-insoluble cancer drugs"
+    },
+    {
+        "name": "Laurens van der Maaten",
+        "most_cited_paper_title": "Visualizing data using t-SNE"
+    },
+    {
+        "name": "Kilian Weinberger",
+        "most_cited_paper_title": "Densely connected convolutional networks"
+    },
+    {
+        "name": "Jinyu Yang",
+        "most_cited_paper_title": "Vision-Language Pre-Training with Triple Contrastive Learning"
+    },
+    {
+        "name": "Jingjing Liu",
+        "most_cited_paper_title": "Multispectral deep neural networks for pedestrian detection"
+    },
+    {
+        "name": "Bingjun Xu (徐冰君)",
+        "most_cited_paper_title": "Universal dependence of hydrogen oxidation and evolution reaction activity of platinum-group metals on pH and hydrogen binding energy"
+    },
+    {
+        "name": "Michael Cogswell",
+        "most_cited_paper_title": "Grad-cam: Visual explanations from deep networks via gradient-based localization"
+    },
+    {
+        "name": "Abhishek Das",
+        "most_cited_paper_title": "Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization"
+    },
+    {
+        "name": "Ramakrishna Vedantam",
+        "most_cited_paper_title": "Grad-CAM: Why did you say that?"
+    },
+    {
+        "name": "Devi Parikh",
+        "most_cited_paper_title": "Grad-cam: Visual explanations from deep networks via gradient-based localization"
+    },
+    {
+        "name": "Dhruv Batra",
+        "most_cited_paper_title": "Grad-cam: Visual explanations from deep networks via gradient-based localization"
+    },
+    {
+        "name": "Junzhou Huang",
+        "most_cited_paper_title": "Dropedge: Towards deep graph convolutional networks on node classification"
+    },
+    {
+        "name": "Zonghan Wu",
+        "most_cited_paper_title": "A comprehensive survey on graph neural networks"
+    },
+    {
+        "name": "Shirui Pan",
+        "most_cited_paper_title": "A comprehensive survey on graph neural networks"
+    },
+    {
+        "name": "Fengwei Chen",
+        "most_cited_paper_title": "Robust identification of continuous-time models with arbitrary time-delay from irregularly sampled data"
+    },
+    {
+        "name": "Guodong Long",
+        "most_cited_paper_title": "A comprehensive survey on graph neural networks"
+    },
+    {
+        "name": "Chengqi Zhang",
+        "most_cited_paper_title": "A comprehensive survey on graph neural networks"
+    },
+    {
+        "name": "Guilherme Botazzo Rozendo",
+        "most_cited_paper_title": "Multidimensional and fuzzy sample entropy (SampEnMF) for quantifying H&E histological images of colorectal cancer"
+    },
+    {
+        "name": "Guilherme Freire Roberto",
+        "most_cited_paper_title": "Classification of colorectal cancer based on the association of multidimensional and multiresolution features"
+    },
+    {
+        "name": "Thaína Aparecida Azevedo Tosta",
+        "most_cited_paper_title": "Computational normalization of H&E-stained histological images: Progress, challenges and future potential"
+    },
+    {
+        "name": "Paulo Rogério de Faria",
+        "most_cited_paper_title": "Assessment of BRAFV600E and SMOF412E mutations in epithelial odontogenic tumours"
+    },
+    {
+        "name": "Sara Sabour",
+        "most_cited_paper_title": "Dynamic routing between capsules"
+    },
+    {
+        "name": "Jacob Vanderplas",
+        "most_cited_paper_title": "Scikit-learn: Machine learning in Python"
+    },
+    {
+        "name": "Fadel Adib",
+        "most_cited_paper_title": "Smart homes that monitor breathing and heart rate"
+    },
+    {
+        "name": "Anant Agarwal",
+        "most_cited_paper_title": "The raw microprocessor: A computational fabric for software circuits and general-purpose programs"
+    },
+    {
+        "name": "Pulkit Agrawal",
+        "most_cited_paper_title": "Curiosity-driven exploration by self-supervised prediction"
+    },
+    {
+        "name": "Mohammad Alizadeh",
+        "most_cited_paper_title": "Data center tcp (dctcp)"
+    },
+    {
+        "name": "Saman Amarasinghe",
+        "most_cited_paper_title": "StreamIt: A language for streaming applications"
+    },
+    {
+        "name": "Jacob Andreas",
+        "most_cited_paper_title": "Neural module networks"
+    },
+    {
+        "name": "Dimitrios Antoniadis",
+        "most_cited_paper_title": "Thermal environment of urban schoolyards: Current and future design with respect to children’s thermal comfort"
+    },
+    {
+        "name": "Prof. Waled AM Ahmed, PhD, RN",
+        "most_cited_paper_title": "Nursing students' stress and coping strategies during clinical training in KSA"
+    },
+    {
+        "name": "Hari Balakrishnan",
+        "most_cited_paper_title": "Energy-efficient communication protocol for wireless microsensor networks"
+    },
+    {
+        "name": "Regina Barzilay",
+        "most_cited_paper_title": "A deep learning approach to antibiotic discovery"
+    },
+    {
+        "name": "Stephen S. Bates",
+        "most_cited_paper_title": "Pennate diatom Nitzschia pungens as the primary source of domoic acid, a toxin in shellfish from eastern Prince Edward Island, Canada"
+    },
+    {
+        "name": "Sara Beery",
+        "most_cited_paper_title": "Wilds: A benchmark of in-the-wild distribution shifts"
+    },
+    {
+        "name": "Adam Wondmieneh Belay",
+        "most_cited_paper_title": "Global, regional, and national cancer incidence, mortality, years of life lost, years lived with disability, and disability-adjusted life-years for 32 cancer groups, 1990 to …"
+    },
+    {
+        "name": "Annabelle Gawer",
+        "most_cited_paper_title": "Platforms, markets and innovation"
+    },
+    {
+        "name": "Karl K. Berggren",
+        "most_cited_paper_title": "Graphoepitaxy of self-assembled block copolymers on two-dimensional periodic patterned templates"
+    },
+    {
+        "name": "Dimitri Bertsekas",
+        "most_cited_paper_title": "Nonlinear programming"
+    },
+    {
+        "name": "Robert C. Berwick",
+        "most_cited_paper_title": "The acquisition of syntactic knowledge"
+    },
+    {
+        "name": "Sangeeta N. Bhatia",
+        "most_cited_paper_title": "Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand"
+    },
+    {
+        "name": "Duane Boning",
+        "most_cited_paper_title": "Towards Fast Computation of Certified Robustness for ReLU Networks"
+    },
+    {
+        "name": "Guy Bresler",
+        "most_cited_paper_title": "The approximate capacity of the many-to-one and one-to-many Gaussian interference channels"
+    },
+    {
+        "name": "Tamara Broderick",
+        "most_cited_paper_title": "Streaming variational bayes"
+    },
+    {
+        "name": "Vladimir Bulovic",
+        "most_cited_paper_title": "Large area, few-layer graphene films on arbitrary substrates by chemical vapor deposition"
+    },
+    {
+        "name": "Michael Carbin",
+        "most_cited_paper_title": "The lottery ticket hypothesis: Finding sparse, trainable neural networks"
+    },
+    {
+        "name": "Vincent Chan",
+        "most_cited_paper_title": "Erratum: Noise in homodyne and heterodyne detection"
+    },
+    {
+        "name": "Anantha Chandrakasan",
+        "most_cited_paper_title": "Energy-efficient communication protocol for wireless microsensor networks"
+    },
+    {
+        "name": "Moungi G. Bawendi",
+        "most_cited_paper_title": "Synthesis and characterization of nearly monodisperse CdE (E= sulfur, selenium, tellurium) semiconductor nanocrystallites"
+    },
+    {
+        "name": "Jianshu Cao",
+        "most_cited_paper_title": "The formulation of quantum statistical mechanics based on the Feynman path centroid density. II. Dynamical properties"
+    },
+    {
+        "name": "Christopher Cummins",
+        "most_cited_paper_title": "Dinitrogen cleavage by a three-coordinate molybdenum (III) complex"
+    },
+    {
+        "name": "Savvakis C Savvides",
+        "most_cited_paper_title": "Risk analysis in investment appraisal"
+    },
+    {
+        "name": "Catherine Drennan",
+        "most_cited_paper_title": "How a Protein Binds B12: A 3.0 Å X-Ray Structure of B12-Binding Domains of Methionine Synthase"
+    },
+    {
+        "name": "Masha Elkin",
+        "most_cited_paper_title": "Traversing biosynthetic carbocation landscapes in the total synthesis of andrastin and terretonin meroterpenes"
+    },
+    {
+        "name": "John Essigmann",
+        "most_cited_paper_title": "Mechanisms of resistance to cisplatin"
+    },
+    {
+        "name": "Della Marina Roberto",
+        "most_cited_paper_title": "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC"
+    },
+    {
+        "name": "Danna Freedman",
+        "most_cited_paper_title": "Slow magnetic relaxation in a high-spin iron (II) complex"
+    },
+    {
+        "name": "Frederick H. Raab",
+        "most_cited_paper_title": "Power amplifiers and transmitters for RF and microwave"
+    },
+    {
+        "name": "Mei-Po Kwan (关美宝)",
+        "most_cited_paper_title": "Introduction: Space-Time Integration in Geography and GIScience"
+    },
+    {
+        "name": "Barbara Imperiali",
+        "most_cited_paper_title": "Effect of N-linked glycosylation on glycopeptide and glycoprotein structure"
+    },
+    {
+        "name": "Timothy F. Jamison",
+        "most_cited_paper_title": "Recent advances in homogeneous nickel catalysis"
+    },
+    {
+        "name": "Jeremy Johnson",
+        "most_cited_paper_title": "Heart disease and stroke statistics—2016 update: a report from the American Heart Association"
+    },
+    {
+        "name": "Oleta Johnson",
+        "most_cited_paper_title": "Two distinct classes of cochaperones compete for the EEVD motif in heat shock protein 70 to tune its chaperone activities"
+    },
+    {
+        "name": "Laura L. Kiessling",
+        "most_cited_paper_title": "Chemical glycobiology"
+    },
+    {
+        "name": "Heather J. Kulik",
+        "most_cited_paper_title": "Density Functional Theory in Transition-Metal Chemistry: A Self-Consistent Hubbard  Approach"
+    },
+    {
+        "name": "Brett A. McGuire",
+        "most_cited_paper_title": "2018 Census of Interstellar, Circumstellar, Extragalactic, Protoplanetary Disk, and Exoplanetary Molecules"
+    },
+    {
+        "name": "Keith A Nelson",
+        "most_cited_paper_title": "Terahertz-field-induced insulator-to-metal transition in vanadium dioxide metamaterial"
+    },
+    {
+        "name": "Samuel A Ajila, PhD., P.Eng., SMIEEE, SMACM",
+        "most_cited_paper_title": "Empirical study of the effects of open source adoption on software development economics"
+    },
+    {
+        "name": "Bradley L. Pentelute",
+        "most_cited_paper_title": "Evidence for a common mechanism of SIRT1 regulation by allosteric activators"
+    },
+    {
+        "name": "Ronald T. Raines",
+        "most_cited_paper_title": "Collagen structure and stability"
+    },
+    {
+        "name": "Yuriy Román-Leshkov",
+        "most_cited_paper_title": "Production of dimethylfuran for liquid fuels from biomass-derived carbohydrates"
+    },
+    {
+        "name": "Gabriela Schlau-Cohen",
+        "most_cited_paper_title": "Quantum coherence and its interplay with protein environments in photosynthetic electronic energy transfer"
+    },
+    {
+        "name": "Alex K. Shalek",
+        "most_cited_paper_title": "Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets"
+    },
+    {
+        "name": "Yang Shao-Horn",
+        "most_cited_paper_title": "A perovskite oxide optimized for oxygen evolution catalysis from molecular orbital principles"
+    },
+    {
+        "name": "Jessica Bonnar",
+        "most_cited_paper_title": "Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq"
+    },
+    {
+        "name": "Susan Solomon",
+        "most_cited_paper_title": "Climate change 2007-the physical science basis: Working group I contribution to the fourth assessment report of the IPCC"
+    },
+    {
+        "name": "Daniel Süss",
+        "most_cited_paper_title": "Medienpädagogik"
+    },
+    {
+        "name": "Yogesh Surendranath",
+        "most_cited_paper_title": "Solar energy supply and storage for the legacy and nonlegacy worlds"
+    },
+    {
+        "name": "Troy Van Voorhis",
+        "most_cited_paper_title": "Advances in molecular quantum chemistry contained in the Q-Chem 4 program package"
+    },
+    {
+        "name": "XiaoWang",
+        "most_cited_paper_title": "N6-methyladenosine-dependent regulation of messenger RNA stability"
+    },
+    {
+        "name": "Dr. Alison E. Wendlandt",
+        "most_cited_paper_title": "Copper‐Catalyzed Aerobic Oxidative C H Functionalizations: Trends and Mechanistic Insights"
+    },
+    {
+        "name": "Adam P. Willard",
+        "most_cited_paper_title": "Hot charge-transfer excitons set the time limit for charge separation at donor/acceptor interfaces in organic photovoltaics"
+    },
+    {
+        "name": "Bing Zhang",
+        "most_cited_paper_title": "Physical processes shaping gamma-ray burst X-ray afterglow light curves: theoretical implications from the Swift X-ray telescope observations"
+    },
+    {
+        "name": "Martin Z. Bazant",
+        "most_cited_paper_title": "Data-driven prediction of battery cycle life before capacity degradation"
+    },
+    {
+        "name": "Bonnie Berger",
+        "most_cited_paper_title": "SARS-CoV-2 receptor ACE2 is an interferon-stimulated gene in human airway epithelial cells and is detected in specific cell subsets across tissues"
+    },
+    {
+        "name": "Roman Bezrukavnikov",
+        "most_cited_paper_title": "Localization of modules for a semisimple Lie algebra in prime characteristic"
+    },
+    {
+        "name": "Alexey Borodin",
+        "most_cited_paper_title": "Static analyzer Svace for finding defects in a source program code"
+    },
+    {
+        "name": "Semyon Dyatlov",
+        "most_cited_paper_title": "Mathematical theory of scattering resonances"
+    },
+    {
+        "name": "Alan Edelman",
+        "most_cited_paper_title": "Julia: A fresh approach to numerical computing"
+    },
+    {
+        "name": "Pavel Etingof",
+        "most_cited_paper_title": "Tensor categories"
+    },
+    {
+        "name": "Michel Goemans",
+        "most_cited_paper_title": "Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming"
+    },
+    {
+        "name": "Steven Johnson",
+        "most_cited_paper_title": "Photonic crystals"
+    },
+    {
+        "name": "victor kac",
+        "most_cited_paper_title": "Infinite-dimensional Lie algebras"
+    },
+    {
+        "name": "Jonathan Kelner",
+        "most_cited_paper_title": "Quantized frame expansions with erasures"
+    },
+    {
+        "name": "Leighton J Thomas",
+        "most_cited_paper_title": "Green plants in the red: A baseline global assessment for the IUCN sampled Red List Index for plants"
+    },
+    {
+        "name": "Alexander Logunov",
+        "most_cited_paper_title": "Nodal sets of Laplace eigenfunctions: polynomial upper estimates of the Hausdorff measure"
+    },
+    {
+        "name": "George Lusztig",
+        "most_cited_paper_title": "Introduction to quantum groups"
+    },
+    {
+        "name": "Ankur Moitra",
+        "most_cited_paper_title": "A practical algorithm for topic modeling with provable guarantees"
+    },
+    {
+        "name": "Elchanan Mossel",
+        "most_cited_paper_title": "Optimal inapproximability results for MAX-CUT and other 2-variable CSPs?"
+    },
+    {
+        "name": "Tomasz Mrowka",
+        "most_cited_paper_title": "The genus of embedded surfaces in the projective plane"
+    },
+    {
+        "name": "Pablo A. Parrilo",
+        "most_cited_paper_title": "Guaranteed minimum-rank solutions of linear matrix equations via nuclear norm minimization"
+    },
+    {
+        "name": "Bjorn Poonen",
+        "most_cited_paper_title": "Rational points on varieties"
+    },
+    {
+        "name": "Alexander Postnikov",
+        "most_cited_paper_title": "Processing of pro–B-type natriuretic peptide: furin and corin as candidate convertases"
+    },
+    {
+        "name": "Philippe Rigollet",
+        "most_cited_paper_title": "Optimal-transport analysis of single-cell gene expression identifies developmental trajectories in reprogramming"
+    },
+    {
+        "name": "Paul Seidel",
+        "most_cited_paper_title": "The Einstein Telescope: A third-generation gravitational wave observatory"
+    },
+    {
+        "name": "Scott Weich",
+        "most_cited_paper_title": "The Warwick-Edinburgh mental well-being scale (WEMWBS): development and UK validation"
+    },
+    {
+        "name": "Gigliola Staffilani",
+        "most_cited_paper_title": "Sharp global well-posedness for KdV and modified KdV on ℝ and 𝕋"
+    },
+    {
+        "name": "Nike Kusumawanti",
+        "most_cited_paper_title": "Bumdes And Asean Economic Communities In Developing Rural Economy"
+    },
+    {
+        "name": "Martin Wainwright",
+        "most_cited_paper_title": "Graphical models, exponential families, and variational inference"
+    },
+    {
+        "name": "Zhiwei Yun",
+        "most_cited_paper_title": "On Koszul duality for Kac-Moody groups"
+    },
+    {
+        "name": "Wei Zhang PhD, Professor of Cancer Biology",
+        "most_cited_paper_title": "Comprehensive molecular portraits of human breast tumours"
+    },
+    {
+        "name": "Daron Acemoglu",
+        "most_cited_paper_title": "The colonial origins of comparative development: An empirical investigation"
+    },
+    {
+        "name": "Nikhil Agarwal",
+        "most_cited_paper_title": "Demand analysis using strategic reports: An application to a school choice mechanism"
+    },
+    {
+        "name": "Isaiah Andrews",
+        "most_cited_paper_title": "Weak instruments in instrumental variables regression: Theory and practice"
+    },
+    {
+        "name": "Josh Angrist",
+        "most_cited_paper_title": "Mostly harmless econometrics: An empiricist's companion"
+    },
+    {
+        "name": "David C Atkins",
+        "most_cited_paper_title": "Randomized trial of behavioral activation, cognitive therapy, and antidepressant medication in the acute treatment of adults with major depression."
+    },
+    {
+        "name": "Ian R Ball",
+        "most_cited_paper_title": "Nature and formulation of biogeographical hypotheses"
+    },
+    {
+        "name": "Martin Beraja",
+        "most_cited_paper_title": "Regional heterogeneity and the refinancing channel of monetary policy"
+    },
+    {
+        "name": "olivier blanchard",
+        "most_cited_paper_title": "Lectures on macroeconomics"
+    },
+    {
+        "name": "Ricardo J Caballero",
+        "most_cited_paper_title": "Zombie lending and depressed restructuring in Japan"
+    },
+    {
+        "name": "Victor Chernozhukov",
+        "most_cited_paper_title": "Double/De-Biased Machine Learning for Treatment and Causal Parameters"
+    },
+    {
+        "name": "Arnaud Costinot",
+        "most_cited_paper_title": "New trade models, same old gains?"
+    },
+    {
+        "name": "Peter Diamond",
+        "most_cited_paper_title": "National debt in a neoclassical growth model"
+    },
+    {
+        "name": "Dave Donaldson",
+        "most_cited_paper_title": "Railroads of the Raj: Estimating the impact of transportation infrastructure"
+    },
+    {
+        "name": "Esther Duflo",
+        "most_cited_paper_title": "How much should we trust differences-in-differences estimates?"
+    },
+    {
+        "name": "Sara Fisher Ellison",
+        "most_cited_paper_title": "Search, obfuscation, and price elasticities on the internet"
+    },
+    {
+        "name": "Glenn Ellison",
+        "most_cited_paper_title": "Geographic concentration in US manufacturing industries: a dartboard approach"
+    },
+    {
+        "name": "Amy Finkelstein",
+        "most_cited_paper_title": "The Oregon health insurance experiment: evidence from the first year"
+    },
+    {
+        "name": "Drew Fudenberg",
+        "most_cited_paper_title": "Game Theory, 616 pages"
+    },
+    {
+        "name": "Robert D. Gibbons",
+        "most_cited_paper_title": "Longitudinal data analysis"
+    },
+    {
+        "name": "Jonathan Gruber",
+        "most_cited_paper_title": "Social security programs and retirement around the world: Micro estimation"
+    },
+    {
+        "name": "Jeffrey S. Harrison",
+        "most_cited_paper_title": "Stakeholder theory"
+    },
+    {
+        "name": "Nathaniel Hendren",
+        "most_cited_paper_title": "Where is the land of opportunity? The geography of intergenerational mobility in the United States"
+    },
+    {
+        "name": "Simon Jäger",
+        "most_cited_paper_title": "Complex tax incentives"
+    },
+    {
+        "name": "Paul Joskow",
+        "most_cited_paper_title": "Contract duration and relationship-specific investments: Empirical evidence from coal markets"
+    },
+    {
+        "name": "Anna Mikusheva",
+        "most_cited_paper_title": "Weak instrument robust tests in GMM and the new Keynesian Phillips curve"
+    },
+    {
+        "name": "Stephen Morris",
+        "most_cited_paper_title": "Social Value of Public Information"
+    },
+    {
+        "name": "Whitney Newey",
+        "most_cited_paper_title": "A simple, positive semi-definite, heteroskedasticity and autocorrelationconsistent covariance matrix"
+    },
+    {
+        "name": "Parag Pathak",
+        "most_cited_paper_title": "Short interest, institutional ownership, and stock returns"
+    },
+    {
+        "name": "james poterba",
+        "most_cited_paper_title": "Mean reversion in stock prices: Evidence and implications"
+    },
+    {
+        "name": "Drazen Prelec",
+        "most_cited_paper_title": "Anomalies of Intertemporal Choice: Evidence and Interpretation"
+    },
+    {
+        "name": "Ashesh Rambachan",
+        "most_cited_paper_title": "A more credible approach to parallel trends"
+    },
+    {
+        "name": "Nina I Roussille",
+        "most_cited_paper_title": "Worker beliefs about outside options"
+    },
+    {
+        "name": "Tobias Salz",
+        "most_cited_paper_title": "Frictions in a Competitive, Regulated Market: Evidence from Taxis"
+    },
+    {
+        "name": "Frank Schilbach",
+        "most_cited_paper_title": "Poverty, Depression, and Anxiety: Causal Evidence and Mechanisms"
+    },
+    {
+        "name": "Richard Schmalensee",
+        "most_cited_paper_title": "Do markets differ much?"
+    },
+    {
+        "name": "Robert M. Townsend",
+        "most_cited_paper_title": "Optimal contracts and competitive markets with costly state verification"
+    },
+    {
+        "name": "Ivan Werning",
+        "most_cited_paper_title": "Macroeconomic implications of COVID-19: Can negative supply shocks cause demand shortages?"
+    },
+    {
+        "name": "william c wheaton",
+        "most_cited_paper_title": "Urban economics and real estate markets"
+    },
+    {
+        "name": "Michael Whinston",
+        "most_cited_paper_title": "Macroeconomic theory"
+    },
+    {
+        "name": "Christian Wolf",
+        "most_cited_paper_title": "The great observatories origins deep survey: initial results from optical and near-infrared imaging"
+    },
+    {
+        "name": "Alexander Wolitzky",
+        "most_cited_paper_title": "The economics of labor coercion"
+    },
+    {
+        "name": "MUHAMMET ARICI",
+        "most_cited_paper_title": "An evaluation of Fourier transforms infrared spectroscopy method for the classification and discrimination of bovine, porcine and fish gelatins"
+    },
+    {
+        "name": "Jathushan Rajasegaran",
+        "most_cited_paper_title": "Deepcaps: Going deeper with capsule networks"
+    },
+    {
+        "name": "Vinoj Jayasundara",
+        "most_cited_paper_title": "Deepcaps: Going deeper with capsule networks"
+    },
+    {
+        "name": "Mesut Toğaçar",
+        "most_cited_paper_title": "COVID-19 detection using deep learning models to exploit Social Mimic Optimization and structured chest X-ray images using fuzzy color and stacking approaches"
+    },
+    {
+        "name": "Zewen Li",
+        "most_cited_paper_title": "A survey of convolutional neural networks: analysis, applications, and prospects"
+    },
+    {
+        "name": "Fan Liu (刘凡)",
+        "most_cited_paper_title": "Integrated sensing and communications: Towards dual-functional wireless networks for 6G and beyond"
+    },
+    {
+        "name": "Vincent Yang",
+        "most_cited_paper_title": "A survey of convolutional neural networks: analysis, applications, and prospects"
+    },
+    {
+        "name": "Shouheng Peng",
+        "most_cited_paper_title": "A survey of convolutional neural networks: analysis, applications, and prospects"
+    },
+    {
+        "name": "junzhou chen",
+        "most_cited_paper_title": "Linking long-term dietary patterns with gut microbial enterotypes"
+    },
+    {
+        "name": "Zafer Cömert",
+        "most_cited_paper_title": "COVID-19 detection using deep learning models to exploit Social Mimic Optimization and structured chest X-ray images using fuzzy color and stacking approaches"
+    },
+    {
+        "name": "Cléber Ivo de Oliveira",
+        "most_cited_paper_title": "Hybrid models for classifying histological images: An association of deep features by transfer learning with ensemble classifier"
+    },
+    {
+        "name": "Alexandre L. M. Levada",
+        "most_cited_paper_title": "Parametric PCA for unsupervised metric learning"
+    },
+    {
+        "name": "Nelson D. A. Mascarenhas",
+        "most_cited_paper_title": "Use of synthetic bands derived from mixing models in the multispectral classification of remote sensing images"
+    },
+    {
+        "name": "farid nourani",
+        "most_cited_paper_title": "Women and LGBTI youth as targets: Assessing transit safety in Rio Claro, Brazil"
+    },
+    {
+        "name": "Eraldo Pereira Marinho",
+        "most_cited_paper_title": "SPH simulations of clumps formation by dissipative collision of molecular clouds-I. Non magnetic case"
+    },
+    {
+        "name": "Hilda Carvalho de Oliveira",
+        "most_cited_paper_title": "Application of Heuristics in Business Process Models to Support Software Requirements Specification."
+    },
+    {
+        "name": "Álvaro Leandro Cavalcante Carneiro",
+        "most_cited_paper_title": "Efficient sign language recognition system and dataset creation method based on deep learning and image processing"
+    },
+    {
+        "name": "João Paulo Papa",
+        "most_cited_paper_title": "Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support: Third International Workshop, DLMIA 2017, and 7th International Workshop, ML-CDS …"
+    },
+    {
+        "name": "Alberto Tannús",
+        "most_cited_paper_title": "Adiabatic pulses"
+    },
+    {
+        "name": "Bruno Barufaldi",
+        "most_cited_paper_title": "Implementation of synthesized two-dimensional mammography in a population-based digital breast tomosynthesis screening program"
+    },
+    {
+        "name": "Vinicius Covre de Assis",
+        "most_cited_paper_title": "Double noise filtering in CT: pre-and post-reconstruction"
+    },
+    {
+        "name": "Charles Deledalle",
+        "most_cited_paper_title": "Iterative weighted maximum likelihood denoising with probabilistic patch-based weights"
+    },
+    {
+        "name": "Denis Henrique Pinheiro Salvadeo",
+        "most_cited_paper_title": "Novel approaches for face recognition: template-matching using dynamic time warping and LSTM Neural Network Supervised Classification"
+    },
+    {
+        "name": "Daniel Carlos Guimarães Pedronette",
+        "most_cited_paper_title": "Image re-ranking and rank aggregation based on similarity of ranked lists"
+    },
+    {
+        "name": "Florence Tupin",
+        "most_cited_paper_title": "Iterative weighted maximum likelihood denoising with probabilistic patch-based weights"
+    },
+    {
+        "name": "Sonia Dahdouh",
+        "most_cited_paper_title": "In vivo placental MRI shape and textural features predict fetal growth restriction and postnatal outcome"
+    },
+    {
+        "name": "Marcelo Andrade da Costa Vieira",
+        "most_cited_paper_title": "Mammographic image denoising and enhancement using the anscombe transformation, adaptive wiener filtering, and the modulation transfer function"
+    },
+    {
+        "name": "Andrew Maidment",
+        "most_cited_paper_title": "Diagnostic performance of digital versus film mammography for breast-cancer screening"
+    },
+    {
+        "name": "Davi Duarte de Paula",
+        "most_cited_paper_title": "CamNuvem: A robbery dataset for video anomaly detection"
+    },
+    {
+        "name": "Veronica Oliveira de Carvalho",
+        "most_cited_paper_title": "Combining K-Means and K-Harmonic with Fish School Search Algorithm for data clustering task on graphics processing units"
+    },
+    {
+        "name": "Lucas de Brito Silva",
+        "most_cited_paper_title": "Efficient sign language recognition system and dataset creation method based on deep learning and image processing"
+    },
+    {
+        "name": "Jander Moreira",
+        "most_cited_paper_title": "Neural-based color image segmentation and classification using self-organizing maps"
+    },
+    {
+        "name": "Andrew Maidment",
+        "most_cited_paper_title": "Diagnostic performance of digital versus film mammography for breast-cancer screening"
+    },
+    {
+        "name": "Florence Tupin",
+        "most_cited_paper_title": "Iterative weighted maximum likelihood denoising with probabilistic patch-based weights"
+    },
+    {
+        "name": "Yu-Xi Xiao",
+        "most_cited_paper_title": "KIFC1: a promising chemotherapy target for cancer treatment?"
+    },
+    {
+        "name": "Fernando Fresneda-Bottaro (https://orcid.org/0000-0002-8340-7900)",
+        "most_cited_paper_title": "Múltiplos Fatores do Desempenho Escolar: Uma Análise dos Microdados do INEP Sobre a Educaçao no Distrito federal"
+    },
+    {
+        "name": "Edilson Ferneda",
+        "most_cited_paper_title": "Emerging Technologies of Text Mining: Techniques and Applications: Techniques and Applications"
+    },
+    {
+        "name": "Hércules Antonio do Prado",
+        "most_cited_paper_title": "Emerging Technologies of Text Mining: Techniques and Applications: Techniques and Applications"
+    },
+    {
+        "name": "Pengfei Zhang (张鹏飞) ",
+        "most_cited_paper_title": "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC"
+    },
+    {
+        "name": "Nan Xue",
+        "most_cited_paper_title": "Learning roi transformer for oriented object detection in aerial images"
+    },
+    {
+        "name": "Sida Peng",
+        "most_cited_paper_title": "PVNet: Pixel-wise Voting Network for 6DoF Object Pose Estimation"
+    },
+    {
+        "name": "Yujun Shen",
+        "most_cited_paper_title": "Interpreting the latent space of gans for semantic face editing"
+    },
+    {
+        "name": "Xiaowei Zhou",
+        "most_cited_paper_title": "Pvnet: Pixel-wise voting network for 6dof pose estimation"
+    },
+    {
+        "name": "Lukas Höllein",
+        "most_cited_paper_title": "Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models"
+    },
+    {
+        "name": "David Novotny",
+        "most_cited_paper_title": "Accelerating 3d deep learning with pytorch3d"
+    },
+    {
+        "name": "Hung-Yu Tseng",
+        "most_cited_paper_title": "Diverse image-to-image translation via disentangled representations"
+    },
+    {
+        "name": "Christian Richardt",
+        "most_cited_paper_title": "Deep Video Portraits"
+    },
+    {
+        "name": "Bin Xiao",
+        "most_cited_paper_title": "Deep High-Resolution Representation Learning for Human Pose Estimation"
+    },
+    {
+        "name": "Haiping Wu",
+        "most_cited_paper_title": "Conducting polymer nanowire arrays for high performance supercapacitors"
+    },
+    {
+        "name": "Weijian Xu",
+        "most_cited_paper_title": "Co-scale conv-attentional image transformers"
+    },
+    {
+        "name": "Xiyang Dai",
+        "most_cited_paper_title": "Cvt: Introducing convolutions to vision transformers"
+    },
+    {
+        "name": "Houdong Hu",
+        "most_cited_paper_title": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks"
+    },
+    {
+        "name": "Yumao Lu",
+        "most_cited_paper_title": "Predictive stemming for web search with statistical machine translation models"
+    },
+    {
+        "name": "Mike Tseng",
+        "most_cited_paper_title": "High-mobility field-effect transistors fabricated with macroscopic aligned semiconducting polymers"
+    },
+    {
+        "name": "Ce Liu",
+        "most_cited_paper_title": "Supervised contrastive learning"
+    },
+    {
+        "name": "Yuan Lu",
+        "most_cited_paper_title": "A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the …"
+    }
+]

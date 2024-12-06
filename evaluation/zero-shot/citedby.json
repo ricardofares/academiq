@@ -1,0 +1,1018 @@
+[
+    {
+        "name": "Adriana Barbosa Santos",
+        "citedby": 3759
+    },
+    {
+        "name": "Aleardo Manacero Junior",
+        "citedby": 205
+    },
+    {
+        "name": "Arnaldo Candido Junior",
+        "citedby": 1409
+    },
+    {
+        "name": "Carlos Roberto Valêncio",
+        "citedby": 293
+    },
+    {
+        "name": "Carina Alexandra Rondini",
+        "citedby": 1374
+    },
+    {
+        "name": "Prof. Dr. Diego Renan Bruno",
+        "citedby": 140
+    },
+    {
+        "name": "Geraldo Francisco Donega Zafalon",
+        "citedby": 235
+    },
+    {
+        "name": "Leandro Alves Neves",
+        "citedby": 1180
+    },
+    {
+        "name": "Lucas C. Ribas",
+        "citedby": 432
+    },
+    {
+        "name": "Marilaine Colnago",
+        "citedby": 204
+    },
+    {
+        "name": "Renata Spolon-Lobato",
+        "citedby": 118
+    },
+    {
+        "name": "Rodrigo Capobianco Guido",
+        "citedby": 2220
+    },
+    {
+        "name": "Rogéria Cristiane Gratão Souza",
+        "citedby": 190
+    },
+    {
+        "name": "Geoffrey Hinton",
+        "citedby": 862625
+    },
+    {
+        "name": "Yann LeCun",
+        "citedby": 379522
+    },
+    {
+        "name": "Yoshua Bengio",
+        "citedby": 857721
+    },
+    {
+        "name": "Ian Goodfellow",
+        "citedby": 324058
+    },
+    {
+        "name": "Alexey Dosovitskiy",
+        "citedby": 96474
+    },
+    {
+        "name": "Lucas Beyer",
+        "citedby": 63737
+    },
+    {
+        "name": "Alexander Kolesnikov",
+        "citedby": 66027
+    },
+    {
+        "name": "Dirk Weissenborn",
+        "citedby": 51216
+    },
+    {
+        "name": "Xiaohua Zhai",
+        "citedby": 62727
+    },
+    {
+        "name": "Thomas Unterthiner",
+        "citedby": 81354
+    },
+    {
+        "name": "Mostafa Dehghani",
+        "citedby": 64208
+    },
+    {
+        "name": "Matthias Minderer",
+        "citedby": 50086
+    },
+    {
+        "name": "Georg Heigold",
+        "citedby": 55125
+    },
+    {
+        "name": "Sylvain Gelly",
+        "citedby": 65626
+    },
+    {
+        "name": "Jakob Uszkoreit",
+        "citedby": 218877
+    },
+    {
+        "name": "Neil Houlsby",
+        "citedby": 67285
+    },
+    {
+        "name": "Ting Chen",
+        "citedby": 36930
+    },
+    {
+        "name": "Simon Kornblith",
+        "citedby": 37003
+    },
+    {
+        "name": "Mohammad Norouzi",
+        "citedby": 67286
+    },
+    {
+        "name": "Jean-bastien Grill",
+        "citedby": 8124
+    },
+    {
+        "name": "Florian STRUB",
+        "citedby": 12602
+    },
+    {
+        "name": "Florent Altché",
+        "citedby": 9698
+    },
+    {
+        "name": "Corentin Tallec",
+        "citedby": 8905
+    },
+    {
+        "name": "Elena Buchatskaya",
+        "citedby": 13233
+    },
+    {
+        "name": "Carl Doersch",
+        "citedby": 20577
+    },
+    {
+        "name": "Zhaohan Daniel Guo",
+        "citedby": 9616
+    },
+    {
+        "name": "koray kavukcuoglu",
+        "citedby": 231116
+    },
+    {
+        "name": "Rémi Munos",
+        "citedby": 43111
+    },
+    {
+        "name": "Michal Valko",
+        "citedby": 13399
+    },
+    {
+        "name": "Kaiming He",
+        "citedby": 628660
+    },
+    {
+        "name": "Xiangyu Zhang",
+        "citedby": 336616
+    },
+    {
+        "name": "Jian Sun",
+        "citedby": 566436
+    },
+    {
+        "name": "Gao Huang （黄高）",
+        "citedby": 73609
+    },
+    {
+        "name": "Zhuang Liu",
+        "citedby": 126773
+    },
+    {
+        "name": "Laurens van der Maaten",
+        "citedby": 128690
+    },
+    {
+        "name": "Kilian Weinberger",
+        "citedby": 111692
+    },
+    {
+        "name": "Jinyu Yang",
+        "citedby": 1280
+    },
+    {
+        "name": "Jingjing Liu",
+        "citedby": 8647
+    },
+    {
+        "name": "Bingjun Xu (徐冰君)",
+        "citedby": 14364
+    },
+    {
+        "name": "Michael Cogswell",
+        "citedby": 27897
+    },
+    {
+        "name": "Abhishek Das",
+        "citedby": 31358
+    },
+    {
+        "name": "Ramakrishna Vedantam",
+        "citedby": 34333
+    },
+    {
+        "name": "Devi Parikh",
+        "citedby": 80568
+    },
+    {
+        "name": "Dhruv Batra",
+        "citedby": 71536
+    },
+    {
+        "name": "Junzhou Huang",
+        "citedby": 30302
+    },
+    {
+        "name": "Zonghan Wu",
+        "citedby": 14134
+    },
+    {
+        "name": "Shirui Pan",
+        "citedby": 33561
+    },
+    {
+        "name": "Fengwei Chen",
+        "citedby": 893
+    },
+    {
+        "name": "Guodong Long",
+        "citedby": 24144
+    },
+    {
+        "name": "Chengqi Zhang",
+        "citedby": 35094
+    },
+    {
+        "name": "Guilherme Botazzo Rozendo",
+        "citedby": 71
+    },
+    {
+        "name": "Guilherme Freire Roberto",
+        "citedby": 382
+    },
+    {
+        "name": "Thaína Aparecida Azevedo Tosta",
+        "citedby": 691
+    },
+    {
+        "name": "Paulo Rogério de Faria",
+        "citedby": 2465
+    },
+    {
+        "name": "Sara Sabour",
+        "citedby": 9332
+    },
+    {
+        "name": "Jacob Vanderplas",
+        "citedby": 161224
+    },
+    {
+        "name": "Fadel Adib",
+        "citedby": 7187
+    },
+    {
+        "name": "Anant Agarwal",
+        "citedby": 26839
+    },
+    {
+        "name": "Pulkit Agrawal",
+        "citedby": 12178
+    },
+    {
+        "name": "Mohammad Alizadeh",
+        "citedby": 21118
+    },
+    {
+        "name": "Saman Amarasinghe",
+        "citedby": 28681
+    },
+    {
+        "name": "Jacob Andreas",
+        "citedby": 11180
+    },
+    {
+        "name": "Dimitrios Antoniadis",
+        "citedby": 187
+    },
+    {
+        "name": "Prof. Waled AM Ahmed, PhD, RN",
+        "citedby": 730
+    },
+    {
+        "name": "Hari Balakrishnan",
+        "citedby": 150095
+    },
+    {
+        "name": "Regina Barzilay",
+        "citedby": 38455
+    },
+    {
+        "name": "Stephen S. Bates",
+        "citedby": 9714
+    },
+    {
+        "name": "Sara Beery",
+        "citedby": 4176
+    },
+    {
+        "name": "Adam Wondmieneh Belay",
+        "citedby": 20688
+    },
+    {
+        "name": "Annabelle Gawer",
+        "citedby": 27711
+    },
+    {
+        "name": "Karl K. Berggren",
+        "citedby": 22572
+    },
+    {
+        "name": "Dimitri Bertsekas",
+        "citedby": 136594
+    },
+    {
+        "name": "Robert C. Berwick",
+        "citedby": 15129
+    },
+    {
+        "name": "Sangeeta N. Bhatia",
+        "citedby": 79867
+    },
+    {
+        "name": "Duane Boning",
+        "citedby": 9411
+    },
+    {
+        "name": "Guy Bresler",
+        "citedby": 3071
+    },
+    {
+        "name": "Tamara Broderick",
+        "citedby": 3805
+    },
+    {
+        "name": "Vladimir Bulovic",
+        "citedby": 75801
+    },
+    {
+        "name": "Michael Carbin",
+        "citedby": 9940
+    },
+    {
+        "name": "Vincent Chan",
+        "citedby": 7605
+    },
+    {
+        "name": "Anantha Chandrakasan",
+        "citedby": 118205
+    },
+    {
+        "name": "Moungi G. Bawendi",
+        "citedby": 170079
+    },
+    {
+        "name": "Jianshu Cao",
+        "citedby": 12867
+    },
+    {
+        "name": "Christopher Cummins",
+        "citedby": 16420
+    },
+    {
+        "name": "Savvakis C Savvides",
+        "citedby": 516
+    },
+    {
+        "name": "Catherine Drennan",
+        "citedby": 13644
+    },
+    {
+        "name": "Masha Elkin",
+        "citedby": 228
+    },
+    {
+        "name": "John Essigmann",
+        "citedby": 22656
+    },
+    {
+        "name": "Della Marina Roberto",
+        "citedby": 54605
+    },
+    {
+        "name": "Danna Freedman",
+        "citedby": 6199
+    },
+    {
+        "name": "Frederick H. Raab",
+        "citedby": 13367
+    },
+    {
+        "name": "Mei-Po Kwan (关美宝)",
+        "citedby": 46089
+    },
+    {
+        "name": "Barbara Imperiali",
+        "citedby": 18353
+    },
+    {
+        "name": "Timothy F. Jamison",
+        "citedby": 24991
+    },
+    {
+        "name": "Jeremy Johnson",
+        "citedby": 80054
+    },
+    {
+        "name": "Oleta Johnson",
+        "citedby": 96
+    },
+    {
+        "name": "Laura L. Kiessling",
+        "citedby": 26219
+    },
+    {
+        "name": "Heather J. Kulik",
+        "citedby": 9646
+    },
+    {
+        "name": "Brett A. McGuire",
+        "citedby": 5080
+    },
+    {
+        "name": "Keith A Nelson",
+        "citedby": 38994
+    },
+    {
+        "name": "Samuel A Ajila, PhD., P.Eng., SMIEEE, SMACM",
+        "citedby": 1626
+    },
+    {
+        "name": "Bradley L. Pentelute",
+        "citedby": 9455
+    },
+    {
+        "name": "Ronald T. Raines",
+        "citedby": 50448
+    },
+    {
+        "name": "Yuriy Román-Leshkov",
+        "citedby": 26161
+    },
+    {
+        "name": "Gabriela Schlau-Cohen",
+        "citedby": 3712
+    },
+    {
+        "name": "Alex K. Shalek",
+        "citedby": 48924
+    },
+    {
+        "name": "Yang Shao-Horn",
+        "citedby": 82436
+    },
+    {
+        "name": "Jessica Bonnar",
+        "citedby": 474
+    },
+    {
+        "name": "Susan Solomon",
+        "citedby": 74765
+    },
+    {
+        "name": "Daniel Süss",
+        "citedby": 2723
+    },
+    {
+        "name": "Yogesh Surendranath",
+        "citedby": 20196
+    },
+    {
+        "name": "Troy Van Voorhis",
+        "citedby": 30118
+    },
+    {
+        "name": "XiaoWang",
+        "citedby": 46507
+    },
+    {
+        "name": "Dr. Alison E. Wendlandt",
+        "citedby": 3579
+    },
+    {
+        "name": "Adam P. Willard",
+        "citedby": 5254
+    },
+    {
+        "name": "Bing Zhang",
+        "citedby": 49840
+    },
+    {
+        "name": "Martin Z. Bazant",
+        "citedby": 42820
+    },
+    {
+        "name": "Bonnie Berger",
+        "citedby": 36334
+    },
+    {
+        "name": "Roman Bezrukavnikov",
+        "citedby": 3749
+    },
+    {
+        "name": "Alexey Borodin",
+        "citedby": 264
+    },
+    {
+        "name": "Semyon Dyatlov",
+        "citedby": 2564
+    },
+    {
+        "name": "Alan Edelman",
+        "citedby": 23450
+    },
+    {
+        "name": "Pavel Etingof",
+        "citedby": 16570
+    },
+    {
+        "name": "Michel Goemans",
+        "citedby": 16517
+    },
+    {
+        "name": "Steven Johnson",
+        "citedby": 77726
+    },
+    {
+        "name": "victor kac",
+        "citedby": 41526
+    },
+    {
+        "name": "Jonathan Kelner",
+        "citedby": 4839
+    },
+    {
+        "name": "Leighton J Thomas",
+        "citedby": 456
+    },
+    {
+        "name": "Alexander Logunov",
+        "citedby": 676
+    },
+    {
+        "name": "George Lusztig",
+        "citedby": 28257
+    },
+    {
+        "name": "Ankur Moitra",
+        "citedby": 7769
+    },
+    {
+        "name": "Elchanan Mossel",
+        "citedby": 13932
+    },
+    {
+        "name": "Tomasz Mrowka",
+        "citedby": 4988
+    },
+    {
+        "name": "Pablo A. Parrilo",
+        "citedby": 28873
+    },
+    {
+        "name": "Bjorn Poonen",
+        "citedby": 6223
+    },
+    {
+        "name": "Alexander Postnikov",
+        "citedby": 839
+    },
+    {
+        "name": "Philippe Rigollet",
+        "citedby": 6972
+    },
+    {
+        "name": "Paul Seidel",
+        "citedby": 10026
+    },
+    {
+        "name": "Scott Weich",
+        "citedby": 23194
+    },
+    {
+        "name": "Gigliola Staffilani",
+        "citedby": 5716
+    },
+    {
+        "name": "Nike Kusumawanti",
+        "citedby": 18
+    },
+    {
+        "name": "Martin Wainwright",
+        "citedby": 61149
+    },
+    {
+        "name": "Zhiwei Yun",
+        "citedby": 1116
+    },
+    {
+        "name": "Wei Zhang PhD, Professor of Cancer Biology",
+        "citedby": 204606
+    },
+    {
+        "name": "Daron Acemoglu",
+        "citedby": 248840
+    },
+    {
+        "name": "Nikhil Agarwal",
+        "citedby": 1622
+    },
+    {
+        "name": "Isaiah Andrews",
+        "citedby": 2883
+    },
+    {
+        "name": "Josh Angrist",
+        "citedby": 99592
+    },
+    {
+        "name": "David C Atkins",
+        "citedby": 25556
+    },
+    {
+        "name": "Ian R Ball",
+        "citedby": 1887
+    },
+    {
+        "name": "Martin Beraja",
+        "citedby": 1380
+    },
+    {
+        "name": "olivier blanchard",
+        "citedby": 139167
+    },
+    {
+        "name": "Ricardo J Caballero",
+        "citedby": 36765
+    },
+    {
+        "name": "Victor Chernozhukov",
+        "citedby": 35314
+    },
+    {
+        "name": "Arnaud Costinot",
+        "citedby": 10642
+    },
+    {
+        "name": "Peter Diamond",
+        "citedby": 51664
+    },
+    {
+        "name": "Dave Donaldson",
+        "citedby": 9907
+    },
+    {
+        "name": "Esther Duflo",
+        "citedby": 106670
+    },
+    {
+        "name": "Sara Fisher Ellison",
+        "citedby": 3610
+    },
+    {
+        "name": "Glenn Ellison",
+        "citedby": 29942
+    },
+    {
+        "name": "Amy Finkelstein",
+        "citedby": 25026
+    },
+    {
+        "name": "Drew Fudenberg",
+        "citedby": 65428
+    },
+    {
+        "name": "Robert D. Gibbons",
+        "citedby": 45141
+    },
+    {
+        "name": "Jonathan Gruber",
+        "citedby": 50523
+    },
+    {
+        "name": "Jeffrey S. Harrison",
+        "citedby": 37489
+    },
+    {
+        "name": "Nathaniel Hendren",
+        "citedby": 19967
+    },
+    {
+        "name": "Simon Jäger",
+        "citedby": 1867
+    },
+    {
+        "name": "Paul Joskow",
+        "citedby": 36134
+    },
+    {
+        "name": "Anna Mikusheva",
+        "citedby": 1277
+    },
+    {
+        "name": "Stephen Morris",
+        "citedby": 27373
+    },
+    {
+        "name": "Whitney Newey",
+        "citedby": 72853
+    },
+    {
+        "name": "Parag Pathak",
+        "citedby": 16774
+    },
+    {
+        "name": "james poterba",
+        "citedby": 59125
+    },
+    {
+        "name": "Drazen Prelec",
+        "citedby": 29920
+    },
+    {
+        "name": "Ashesh Rambachan",
+        "citedby": 1829
+    },
+    {
+        "name": "Nina I Roussille",
+        "citedby": 334
+    },
+    {
+        "name": "Tobias Salz",
+        "citedby": 885
+    },
+    {
+        "name": "Frank Schilbach",
+        "citedby": 3092
+    },
+    {
+        "name": "Richard Schmalensee",
+        "citedby": 43081
+    },
+    {
+        "name": "Robert M. Townsend",
+        "citedby": 26553
+    },
+    {
+        "name": "Ivan Werning",
+        "citedby": 13120
+    },
+    {
+        "name": "william c wheaton",
+        "citedby": 13100
+    },
+    {
+        "name": "Michael Whinston",
+        "citedby": 40659
+    },
+    {
+        "name": "Christian Wolf",
+        "citedby": 25109
+    },
+    {
+        "name": "Alexander Wolitzky",
+        "citedby": 1995
+    },
+    {
+        "name": "MUHAMMET ARICI",
+        "citedby": 3191
+    },
+    {
+        "name": "Jathushan Rajasegaran",
+        "citedby": 1471
+    },
+    {
+        "name": "Vinoj Jayasundara",
+        "citedby": 558
+    },
+    {
+        "name": "Mesut Toğaçar",
+        "citedby": 3022
+    },
+    {
+        "name": "Zewen Li",
+        "citedby": 3444
+    },
+    {
+        "name": "Fan Liu (刘凡)",
+        "citedby": 11247
+    },
+    {
+        "name": "Vincent Yang",
+        "citedby": 3216
+    },
+    {
+        "name": "Shouheng Peng",
+        "citedby": 3200
+    },
+    {
+        "name": "junzhou chen",
+        "citedby": 37377
+    },
+    {
+        "name": "Zafer Cömert",
+        "citedby": 4858
+    },
+    {
+        "name": "Cléber Ivo de Oliveira",
+        "citedby": 20
+    },
+    {
+        "name": "Alexandre L. M. Levada",
+        "citedby": 544
+    },
+    {
+        "name": "Nelson D. A. Mascarenhas",
+        "citedby": 1882
+    },
+    {
+        "name": "farid nourani",
+        "citedby": 39
+    },
+    {
+        "name": "Eraldo Pereira Marinho",
+        "citedby": 112
+    },
+    {
+        "name": "Hilda Carvalho de Oliveira",
+        "citedby": 66
+    },
+    {
+        "name": "Álvaro Leandro Cavalcante Carneiro",
+        "citedby": 16
+    },
+    {
+        "name": "João Paulo Papa",
+        "citedby": 14481
+    },
+    {
+        "name": "Alberto Tannús",
+        "citedby": 3014
+    },
+    {
+        "name": "Bruno Barufaldi",
+        "citedby": 845
+    },
+    {
+        "name": "Vinicius Covre de Assis",
+        "citedby": 6
+    },
+    {
+        "name": "Charles Deledalle",
+        "citedby": 5294
+    },
+    {
+        "name": "Denis Henrique Pinheiro Salvadeo",
+        "citedby": 162
+    },
+    {
+        "name": "Daniel Carlos Guimarães Pedronette",
+        "citedby": 1544
+    },
+    {
+        "name": "Florence Tupin",
+        "citedby": 9565
+    },
+    {
+        "name": "Sonia Dahdouh",
+        "citedby": 228
+    },
+    {
+        "name": "Marcelo Andrade da Costa Vieira",
+        "citedby": 679
+    },
+    {
+        "name": "Andrew Maidment",
+        "citedby": 11282
+    },
+    {
+        "name": "Davi Duarte de Paula",
+        "citedby": 20
+    },
+    {
+        "name": "Veronica Oliveira de Carvalho",
+        "citedby": 268
+    },
+    {
+        "name": "Lucas de Brito Silva",
+        "citedby": 16
+    },
+    {
+        "name": "Jander Moreira",
+        "citedby": 104
+    },
+    {
+        "name": "Andrew Maidment",
+        "citedby": 11282
+    },
+    {
+        "name": "Florence Tupin",
+        "citedby": 9565
+    },
+    {
+        "name": "Yu-Xi Xiao",
+        "citedby": 100
+    },
+    {
+        "name": "Fernando Fresneda-Bottaro (https://orcid.org/0000-0002-8340-7900)",
+        "citedby": 2
+    },
+    {
+        "name": "Edilson Ferneda",
+        "citedby": 883
+    },
+    {
+        "name": "Hércules Antonio do Prado",
+        "citedby": 582
+    },
+    {
+        "name": "Pengfei Zhang (张鹏飞) ",
+        "citedby": 95438
+    },
+    {
+        "name": "Nan Xue",
+        "citedby": 3591
+    },
+    {
+        "name": "Sida Peng",
+        "citedby": 4278
+    },
+    {
+        "name": "Yujun Shen",
+        "citedby": 6869
+    },
+    {
+        "name": "Xiaowei Zhou",
+        "citedby": 13649
+    },
+    {
+        "name": "Lukas Höllein",
+        "citedby": 213
+    },
+    {
+        "name": "David Novotny",
+        "citedby": 2639
+    },
+    {
+        "name": "Hung-Yu Tseng",
+        "citedby": 4622
+    },
+    {
+        "name": "Christian Richardt",
+        "citedby": 4890
+    },
+    {
+        "name": "Bin Xiao",
+        "citedby": 21746
+    },
+    {
+        "name": "Haiping Wu",
+        "citedby": 5329
+    },
+    {
+        "name": "Weijian Xu",
+        "citedby": 1562
+    },
+    {
+        "name": "Xiyang Dai",
+        "citedby": 10457
+    },
+    {
+        "name": "Houdong Hu",
+        "citedby": 5959
+    },
+    {
+        "name": "Yumao Lu",
+        "citedby": 1269
+    },
+    {
+        "name": "Mike Tseng",
+        "citedby": 2313
+    },
+    {
+        "name": "Ce Liu",
+        "citedby": 27571
+    },
+    {
+        "name": "Yuan Lu",
+        "citedby": 78861
+    }
+]

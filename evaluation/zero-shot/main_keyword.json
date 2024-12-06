@@ -1,0 +1,1018 @@
+[
+    {
+        "name": "Adriana Barbosa Santos",
+        "main_keyword": "Gestão da qualidade"
+    },
+    {
+        "name": "Aleardo Manacero Junior",
+        "main_keyword": "Computer Science"
+    },
+    {
+        "name": "Arnaldo Candido Junior",
+        "main_keyword": "Deep Learning"
+    },
+    {
+        "name": "Carlos Roberto Valêncio",
+        "main_keyword": "Banco de Dados"
+    },
+    {
+        "name": "Carina Alexandra Rondini",
+        "main_keyword": "Estatística"
+    },
+    {
+        "name": "Prof. Dr. Diego Renan Bruno",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Geraldo Francisco Donega Zafalon",
+        "main_keyword": "Bioinformatics"
+    },
+    {
+        "name": "Leandro Alves Neves",
+        "main_keyword": "Pattern Recognition"
+    },
+    {
+        "name": "Lucas C. Ribas",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Marilaine Colnago",
+        "main_keyword": "Matemática Computacional"
+    },
+    {
+        "name": "Renata Spolon-Lobato",
+        "main_keyword": "Sistemas distribuídos"
+    },
+    {
+        "name": "Rodrigo Capobianco Guido",
+        "main_keyword": "signal processing"
+    },
+    {
+        "name": "Rogéria Cristiane Gratão Souza",
+        "main_keyword": "Engenharia de Software"
+    },
+    {
+        "name": "Geoffrey Hinton",
+        "main_keyword": "machine learning"
+    },
+    {
+        "name": "Yann LeCun",
+        "main_keyword": "AI"
+    },
+    {
+        "name": "Yoshua Bengio",
+        "main_keyword": "Machine learning"
+    },
+    {
+        "name": "Ian Goodfellow",
+        "main_keyword": "Deep Learning"
+    },
+    {
+        "name": "Alexey Dosovitskiy",
+        "main_keyword": "Deep Learning"
+    },
+    {
+        "name": "Lucas Beyer",
+        "main_keyword": "Representation Learning"
+    },
+    {
+        "name": "Alexander Kolesnikov",
+        "main_keyword": "AI"
+    },
+    {
+        "name": "Dirk Weissenborn",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Xiaohua Zhai",
+        "main_keyword": "Representation Learning"
+    },
+    {
+        "name": "Thomas Unterthiner",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Mostafa Dehghani",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Matthias Minderer",
+        "main_keyword": "Representation learning"
+    },
+    {
+        "name": "Georg Heigold",
+        "main_keyword": "Speech recognition"
+    },
+    {
+        "name": "Sylvain Gelly",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Jakob Uszkoreit",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Neil Houlsby",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Ting Chen",
+        "main_keyword": "Computational Genomics"
+    },
+    {
+        "name": "Simon Kornblith",
+        "main_keyword": "representation learning"
+    },
+    {
+        "name": "Mohammad Norouzi",
+        "main_keyword": "Artificial Intelligence"
+    },
+    {
+        "name": "Jean-bastien Grill",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Florian STRUB",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Florent Altché",
+        "main_keyword": "AI"
+    },
+    {
+        "name": "Corentin Tallec",
+        "main_keyword": "Deep learning"
+    },
+    {
+        "name": "Elena Buchatskaya",
+        "main_keyword": "Natural Language Processing"
+    },
+    {
+        "name": "Carl Doersch",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Zhaohan Daniel Guo",
+        "main_keyword": "Reinforcement learning"
+    },
+    {
+        "name": "koray kavukcuoglu",
+        "main_keyword": "deep learning"
+    },
+    {
+        "name": "Rémi Munos",
+        "main_keyword": "Reinforcement learning"
+    },
+    {
+        "name": "Michal Valko",
+        "main_keyword": "fine-tuning LLMs"
+    },
+    {
+        "name": "Kaiming He",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Xiangyu Zhang",
+        "main_keyword": "Neural Network Architectures"
+    },
+    {
+        "name": "Jian Sun",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Gao Huang （黄高）",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Zhuang Liu",
+        "main_keyword": "Biomaterials & Nanomedicine"
+    },
+    {
+        "name": "Laurens van der Maaten",
+        "main_keyword": "Artificial Intelligence"
+    },
+    {
+        "name": "Kilian Weinberger",
+        "main_keyword": "machine learning"
+    },
+    {
+        "name": "Jinyu Yang",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Jingjing Liu",
+        "main_keyword": "geochemistry"
+    },
+    {
+        "name": "Bingjun Xu (徐冰君)",
+        "main_keyword": "Heterogeneous catalysis"
+    },
+    {
+        "name": "Michael Cogswell",
+        "main_keyword": "Machine Learning and Computer Vision"
+    },
+    {
+        "name": "Abhishek Das",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Ramakrishna Vedantam",
+        "main_keyword": "Deep Learning"
+    },
+    {
+        "name": "Devi Parikh",
+        "main_keyword": "Generative AI"
+    },
+    {
+        "name": "Dhruv Batra",
+        "main_keyword": "AI"
+    },
+    {
+        "name": "Junzhou Huang",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Zonghan Wu",
+        "main_keyword": "graph neural networks"
+    },
+    {
+        "name": "Shirui Pan",
+        "main_keyword": "Data Mining"
+    },
+    {
+        "name": "Fengwei Chen",
+        "main_keyword": "System Identification"
+    },
+    {
+        "name": "Guodong Long",
+        "main_keyword": "Federated Learning"
+    },
+    {
+        "name": "Chengqi Zhang",
+        "main_keyword": "Data Mining"
+    },
+    {
+        "name": "Guilherme Botazzo Rozendo",
+        "main_keyword": "Machine learning"
+    },
+    {
+        "name": "Guilherme Freire Roberto",
+        "main_keyword": "Computer Science"
+    },
+    {
+        "name": "Thaína Aparecida Azevedo Tosta",
+        "main_keyword": "Medical Image Analysis"
+    },
+    {
+        "name": "Paulo Rogério de Faria",
+        "main_keyword": "cancer stem-cell"
+    },
+    {
+        "name": "Sara Sabour",
+        "main_keyword": "Machine learning"
+    },
+    {
+        "name": "Jacob Vanderplas",
+        "main_keyword": "Astronomy"
+    },
+    {
+        "name": "Fadel Adib",
+        "main_keyword": "Wireless Sensing"
+    },
+    {
+        "name": "Anant Agarwal",
+        "main_keyword": "Online learning"
+    },
+    {
+        "name": "Pulkit Agrawal",
+        "main_keyword": "Robotics"
+    },
+    {
+        "name": "Mohammad Alizadeh",
+        "main_keyword": "Computer networks"
+    },
+    {
+        "name": "Saman Amarasinghe",
+        "main_keyword": "Compilers"
+    },
+    {
+        "name": "Jacob Andreas",
+        "main_keyword": "NLP"
+    },
+    {
+        "name": "Dimitrios Antoniadis",
+        "main_keyword": "Biometeorology"
+    },
+    {
+        "name": "Prof. Waled AM Ahmed, PhD, RN",
+        "main_keyword": "Community Health Nursing"
+    },
+    {
+        "name": "Hari Balakrishnan",
+        "main_keyword": "Networked computer systems"
+    },
+    {
+        "name": "Regina Barzilay",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Stephen S. Bates",
+        "main_keyword": "harmful algal blooms"
+    },
+    {
+        "name": "Sara Beery",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Adam Wondmieneh Belay",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Annabelle Gawer",
+        "main_keyword": "Digital Platforms"
+    },
+    {
+        "name": "Karl K. Berggren",
+        "main_keyword": "nanofabrication"
+    },
+    {
+        "name": "Dimitri Bertsekas",
+        "main_keyword": "Optimization and Control"
+    },
+    {
+        "name": "Robert C. Berwick",
+        "main_keyword": "computational linguistics"
+    },
+    {
+        "name": "Sangeeta N. Bhatia",
+        "main_keyword": "Multiscale Regenerative Technologies"
+    },
+    {
+        "name": "Duane Boning",
+        "main_keyword": "Semiconductor manufacturing"
+    },
+    {
+        "name": "Guy Bresler",
+        "main_keyword": "Information theory"
+    },
+    {
+        "name": "Tamara Broderick",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Vladimir Bulovic",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Michael Carbin",
+        "main_keyword": "Programming Languages"
+    },
+    {
+        "name": "Vincent Chan",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Anantha Chandrakasan",
+        "main_keyword": "Energy Efficient Design"
+    },
+    {
+        "name": "Moungi G. Bawendi",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Jianshu Cao",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Christopher Cummins",
+        "main_keyword": "Inorganic Synthesis"
+    },
+    {
+        "name": "Savvakis C Savvides",
+        "main_keyword": "Investment Appraisal"
+    },
+    {
+        "name": "Catherine Drennan",
+        "main_keyword": "Biochemistry"
+    },
+    {
+        "name": "Masha Elkin",
+        "main_keyword": "Organic Chemistry"
+    },
+    {
+        "name": "John Essigmann",
+        "main_keyword": "Toxicology"
+    },
+    {
+        "name": "Della Marina Roberto",
+        "main_keyword": "Fisica"
+    },
+    {
+        "name": "Danna Freedman",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Frederick H. Raab",
+        "main_keyword": "RF power amplifiers"
+    },
+    {
+        "name": "Mei-Po Kwan (关美宝)",
+        "main_keyword": "Environmental health"
+    },
+    {
+        "name": "Barbara Imperiali",
+        "main_keyword": "chemical biology biophysics biochemistry glycobiology"
+    },
+    {
+        "name": "Timothy F. Jamison",
+        "main_keyword": "Organic Chemistry"
+    },
+    {
+        "name": "Jeremy Johnson",
+        "main_keyword": "Genomics"
+    },
+    {
+        "name": "Oleta Johnson",
+        "main_keyword": "Chemical Biology"
+    },
+    {
+        "name": "Laura L. Kiessling",
+        "main_keyword": "Chemical Biology"
+    },
+    {
+        "name": "Heather J. Kulik",
+        "main_keyword": "computational chemistry"
+    },
+    {
+        "name": "Brett A. McGuire",
+        "main_keyword": "Physical Chemistry"
+    },
+    {
+        "name": "Keith A Nelson",
+        "main_keyword": "physical chemistry"
+    },
+    {
+        "name": "Samuel A Ajila, PhD., P.Eng., SMIEEE, SMACM",
+        "main_keyword": "Software Engineering"
+    },
+    {
+        "name": "Bradley L. Pentelute",
+        "main_keyword": "Biotechnology"
+    },
+    {
+        "name": "Ronald T. Raines",
+        "main_keyword": "chemical biology"
+    },
+    {
+        "name": "Yuriy Román-Leshkov",
+        "main_keyword": "Heterogeneous catalysis"
+    },
+    {
+        "name": "Gabriela Schlau-Cohen",
+        "main_keyword": "Photosynthesis"
+    },
+    {
+        "name": "Alex K. Shalek",
+        "main_keyword": "single-cell genomics"
+    },
+    {
+        "name": "Yang Shao-Horn",
+        "main_keyword": "Chemistry"
+    },
+    {
+        "name": "Jessica Bonnar",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Susan Solomon",
+        "main_keyword": "ozone depletion"
+    },
+    {
+        "name": "Daniel Süss",
+        "main_keyword": "Mediensozialisation"
+    },
+    {
+        "name": "Yogesh Surendranath",
+        "main_keyword": "Energy Conversion"
+    },
+    {
+        "name": "Troy Van Voorhis",
+        "main_keyword": "Physical Chemistry"
+    },
+    {
+        "name": "XiaoWang",
+        "main_keyword": "Uncertainty Theory"
+    },
+    {
+        "name": "Dr. Alison E. Wendlandt",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Adam P. Willard",
+        "main_keyword": "Statistical Mechanics"
+    },
+    {
+        "name": "Bing Zhang",
+        "main_keyword": "High energy astrophysics"
+    },
+    {
+        "name": "Martin Z. Bazant",
+        "main_keyword": "electrochemistry"
+    },
+    {
+        "name": "Bonnie Berger",
+        "main_keyword": "Bioinformatics"
+    },
+    {
+        "name": "Roman Bezrukavnikov",
+        "main_keyword": "Representation Theory"
+    },
+    {
+        "name": "Alexey Borodin",
+        "main_keyword": "static analysis"
+    },
+    {
+        "name": "Semyon Dyatlov",
+        "main_keyword": "partial differential equations"
+    },
+    {
+        "name": "Alan Edelman",
+        "main_keyword": "Corgis"
+    },
+    {
+        "name": "Pavel Etingof",
+        "main_keyword": "Representation theory"
+    },
+    {
+        "name": "Michel Goemans",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Steven Johnson",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "victor kac",
+        "main_keyword": "Algebra"
+    },
+    {
+        "name": "Jonathan Kelner",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Leighton J Thomas",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Alexander Logunov",
+        "main_keyword": "Analysis"
+    },
+    {
+        "name": "George Lusztig",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Ankur Moitra",
+        "main_keyword": "Theory"
+    },
+    {
+        "name": "Elchanan Mossel",
+        "main_keyword": "Combinatorial Statistics"
+    },
+    {
+        "name": "Tomasz Mrowka",
+        "main_keyword": "mathematics of gauge theory"
+    },
+    {
+        "name": "Pablo A. Parrilo",
+        "main_keyword": "Convex Optimization"
+    },
+    {
+        "name": "Bjorn Poonen",
+        "main_keyword": "Algebraic Geometry"
+    },
+    {
+        "name": "Alexander Postnikov",
+        "main_keyword": "clinical chemistry"
+    },
+    {
+        "name": "Philippe Rigollet",
+        "main_keyword": "Statistics"
+    },
+    {
+        "name": "Paul Seidel",
+        "main_keyword": "Physik"
+    },
+    {
+        "name": "Scott Weich",
+        "main_keyword": "Mental health"
+    },
+    {
+        "name": "Gigliola Staffilani",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Nike Kusumawanti",
+        "main_keyword": "Sosiologi"
+    },
+    {
+        "name": "Martin Wainwright",
+        "main_keyword": "Statistics"
+    },
+    {
+        "name": "Zhiwei Yun",
+        "main_keyword": "Representation Theory"
+    },
+    {
+        "name": "Wei Zhang PhD, Professor of Cancer Biology",
+        "main_keyword": "Cancer Genomics"
+    },
+    {
+        "name": "Daron Acemoglu",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Nikhil Agarwal",
+        "main_keyword": "Market Design"
+    },
+    {
+        "name": "Isaiah Andrews",
+        "main_keyword": "Econometrics"
+    },
+    {
+        "name": "Josh Angrist",
+        "main_keyword": "Labor Economics"
+    },
+    {
+        "name": "David C Atkins",
+        "main_keyword": "Machine learning in Psychiatry and Behavioral Health"
+    },
+    {
+        "name": "Ian R Ball",
+        "main_keyword": "Phylogeny"
+    },
+    {
+        "name": "Martin Beraja",
+        "main_keyword": "Macroeconomics"
+    },
+    {
+        "name": "olivier blanchard",
+        "main_keyword": "macro"
+    },
+    {
+        "name": "Ricardo J Caballero",
+        "main_keyword": "Macroeconomics"
+    },
+    {
+        "name": "Victor Chernozhukov",
+        "main_keyword": "Econometrics"
+    },
+    {
+        "name": "Arnaud Costinot",
+        "main_keyword": "International Trade"
+    },
+    {
+        "name": "Peter Diamond",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Dave Donaldson",
+        "main_keyword": "International Trade"
+    },
+    {
+        "name": "Esther Duflo",
+        "main_keyword": "Economics"
+    },
+    {
+        "name": "Sara Fisher Ellison",
+        "main_keyword": "Industrial Organization"
+    },
+    {
+        "name": "Glenn Ellison",
+        "main_keyword": "Economics"
+    },
+    {
+        "name": "Amy Finkelstein",
+        "main_keyword": "public finance"
+    },
+    {
+        "name": "Drew Fudenberg",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Robert D. Gibbons",
+        "main_keyword": "biostatistics"
+    },
+    {
+        "name": "Jonathan Gruber",
+        "main_keyword": "Public Finance"
+    },
+    {
+        "name": "Jeffrey S. Harrison",
+        "main_keyword": "Strategic Management"
+    },
+    {
+        "name": "Nathaniel Hendren",
+        "main_keyword": "Economics"
+    },
+    {
+        "name": "Simon Jäger",
+        "main_keyword": "Labor Economics"
+    },
+    {
+        "name": "Paul Joskow",
+        "main_keyword": "Economics"
+    },
+    {
+        "name": "Anna Mikusheva",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Stephen Morris",
+        "main_keyword": "Economics"
+    },
+    {
+        "name": "Whitney Newey",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Parag Pathak",
+        "main_keyword": "Market Design"
+    },
+    {
+        "name": "james poterba",
+        "main_keyword": "Economics of Taxation"
+    },
+    {
+        "name": "Drazen Prelec",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Ashesh Rambachan",
+        "main_keyword": "Econometrics"
+    },
+    {
+        "name": "Nina I Roussille",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Tobias Salz",
+        "main_keyword": "Industrial Organization"
+    },
+    {
+        "name": "Frank Schilbach",
+        "main_keyword": "Behavioral Economics"
+    },
+    {
+        "name": "Richard Schmalensee",
+        "main_keyword": "Industrial Organization"
+    },
+    {
+        "name": "Robert M. Townsend",
+        "main_keyword": "Theorist"
+    },
+    {
+        "name": "Ivan Werning",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "william c wheaton",
+        "main_keyword": "economics"
+    },
+    {
+        "name": "Michael Whinston",
+        "main_keyword": "Industrial Organization"
+    },
+    {
+        "name": "Christian Wolf",
+        "main_keyword": "Surveys"
+    },
+    {
+        "name": "Alexander Wolitzky",
+        "main_keyword": "Microeconomic Theory"
+    },
+    {
+        "name": "MUHAMMET ARICI",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Jathushan Rajasegaran",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Vinoj Jayasundara",
+        "main_keyword": "Computer vision"
+    },
+    {
+        "name": "Mesut Toğaçar",
+        "main_keyword": "Artificial Intelligence"
+    },
+    {
+        "name": "Zewen Li",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Fan Liu (刘凡)",
+        "main_keyword": "Integrated Sensing and Communication"
+    },
+    {
+        "name": "Vincent Yang",
+        "main_keyword": "computer vision"
+    },
+    {
+        "name": "Shouheng Peng",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "junzhou chen",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Zafer Cömert",
+        "main_keyword": "Computer Science"
+    },
+    {
+        "name": "Cléber Ivo de Oliveira",
+        "main_keyword": "Pattern Recognition"
+    },
+    {
+        "name": "Alexandre L. M. Levada",
+        "main_keyword": "Pattern Recognition"
+    },
+    {
+        "name": "Nelson D. A. Mascarenhas",
+        "main_keyword": "Processamento Digital de Imagens"
+    },
+    {
+        "name": "farid nourani",
+        "main_keyword": "Ancient architecture"
+    },
+    {
+        "name": "Eraldo Pereira Marinho",
+        "main_keyword": "Análise de aglomerações"
+    },
+    {
+        "name": "Hilda Carvalho de Oliveira",
+        "main_keyword": "Ciência da Computação"
+    },
+    {
+        "name": "Álvaro Leandro Cavalcante Carneiro",
+        "main_keyword": "Machine learning"
+    },
+    {
+        "name": "João Paulo Papa",
+        "main_keyword": "Machine learning"
+    },
+    {
+        "name": "Alberto Tannús",
+        "main_keyword": "Magnetic Resonance Imaging and in vivo Spectroscopy"
+    },
+    {
+        "name": "Bruno Barufaldi",
+        "main_keyword": "Digital Image Processing"
+    },
+    {
+        "name": "Vinicius Covre de Assis",
+        "main_keyword": "artificial intelligence"
+    },
+    {
+        "name": "Charles Deledalle",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Denis Henrique Pinheiro Salvadeo",
+        "main_keyword": "Image Processing"
+    },
+    {
+        "name": "Daniel Carlos Guimarães Pedronette",
+        "main_keyword": "Content-Based Image Retrieval"
+    },
+    {
+        "name": "Florence Tupin",
+        "main_keyword": "image processing"
+    },
+    {
+        "name": "Sonia Dahdouh",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Marcelo Andrade da Costa Vieira",
+        "main_keyword": "Biomedical Engineering"
+    },
+    {
+        "name": "Andrew Maidment",
+        "main_keyword": "Breast Imaging"
+    },
+    {
+        "name": "Davi Duarte de Paula",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Veronica Oliveira de Carvalho",
+        "main_keyword": "Data Mining"
+    },
+    {
+        "name": "Lucas de Brito Silva",
+        "main_keyword": "BPCAPooling"
+    },
+    {
+        "name": "Jander Moreira",
+        "main_keyword": "Processamento digital de imagens"
+    },
+    {
+        "name": "Andrew Maidment",
+        "main_keyword": "Breast Imaging"
+    },
+    {
+        "name": "Florence Tupin",
+        "main_keyword": "image processing"
+    },
+    {
+        "name": "Yu-Xi Xiao",
+        "main_keyword": "[NO KEYWORDS FOUND]"
+    },
+    {
+        "name": "Fernando Fresneda-Bottaro (https://orcid.org/0000-0002-8340-7900)",
+        "main_keyword": "Data Science"
+    },
+    {
+        "name": "Edilson Ferneda",
+        "main_keyword": "Gestão do Conhecimento"
+    },
+    {
+        "name": "Hércules Antonio do Prado",
+        "main_keyword": "Knowledge Management"
+    },
+    {
+        "name": "Pengfei Zhang (张鹏飞) ",
+        "main_keyword": "Quantum Dots"
+    },
+    {
+        "name": "Nan Xue",
+        "main_keyword": "3D Vision"
+    },
+    {
+        "name": "Sida Peng",
+        "main_keyword": "computer vision"
+    },
+    {
+        "name": "Yujun Shen",
+        "main_keyword": "Generative Modeling"
+    },
+    {
+        "name": "Xiaowei Zhou",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Lukas Höllein",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "David Novotny",
+        "main_keyword": "Artificial Intelligence"
+    },
+    {
+        "name": "Hung-Yu Tseng",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Christian Richardt",
+        "main_keyword": "View Synthesis"
+    },
+    {
+        "name": "Bin Xiao",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Haiping Wu",
+        "main_keyword": "lithium ion batteries"
+    },
+    {
+        "name": "Weijian Xu",
+        "main_keyword": "deep learning"
+    },
+    {
+        "name": "Xiyang Dai",
+        "main_keyword": "Computer Vision"
+    },
+    {
+        "name": "Houdong Hu",
+        "main_keyword": "Machine Learning"
+    },
+    {
+        "name": "Yumao Lu",
+        "main_keyword": "AI"
+    },
+    {
+        "name": "Mike Tseng",
+        "main_keyword": "Semiconductor"
+    },
+    {
+        "name": "Ce Liu",
+        "main_keyword": "GenAI"
+    },
+    {
+        "name": "Yuan Lu",
+        "main_keyword": "Cardiovascular Disease Prevention"
+    }
+]

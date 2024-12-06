@@ -1,0 +1,70 @@
+Model: microsoft/Phi-3.5-mini-instruct
+  - Hidden Act: silu
+  - Hidden Size: 3072
+  - Num. Hidden Layers: 32
+  - Max. Position Embeddings: 131072
+  - Torch Dtype: torch.bfloat16
+  - Num Key Value Heads: 32
+  - Vocab. Size: 32064
+  - Top-k: 50
+  - Temperature: 1.0
+Model: jpacifico/Chocolatine-3B-Instruct-DPO-Revised
+  - Hidden Act: silu
+  - Hidden Size: 3072
+  - Num. Hidden Layers: 32
+  - Max. Position Embeddings: 4096
+  - Torch Dtype: torch.float16
+  - Num Key Value Heads: 32
+  - Vocab. Size: 32064
+  - Top-k: 50
+  - Temperature: 1.0
+Model: ibm-granite/granite-3.0-2b-instruct
+  - Hidden Act: silu
+  - Hidden Size: 2048
+  - Num. Hidden Layers: 40
+  - Max. Position Embeddings: 4096
+  - Torch Dtype: torch.bfloat16
+  - Num Key Value Heads: 8
+  - Vocab. Size: 49155
+  - Top-k: 50
+  - Temperature: 1.0
+Model: meta-llama/Llama-3.2-3B-Instruct
+  - Hidden Act: silu
+  - Hidden Size: 3072
+  - Num. Hidden Layers: 28
+  - Max. Position Embeddings: 131072
+  - Torch Dtype: torch.bfloat16
+  - Num Key Value Heads: 8
+  - Vocab. Size: 128256
+  - Top-k: 50
+  - Temperature: 1.0
+Model: Qwen/Qwen2.5-7B-Instruct
+  - Hidden Act: silu
+  - Hidden Size: 3584
+  - Num. Hidden Layers: 28
+  - Max. Position Embeddings: 32768
+  - Torch Dtype: torch.bfloat16
+  - Num Key Value Heads: 4
+  - Vocab. Size: 152064
+  - Top-k: 50
+  - Temperature: 1.0
+Model: MaziyarPanahi/calme-3.1-instruct-3b
+  - Hidden Act: silu
+  - Hidden Size: 2048
+  - Num. Hidden Layers: 36
+  - Max. Position Embeddings: 32768
+  - Torch Dtype: torch.bfloat16
+  - Num Key Value Heads: 2
+  - Vocab. Size: 151936
+  - Top-k: 50
+  - Temperature: 1.0
+Model: nvidia/Nemotron-Mini-4B-Instruct
+  - Hidden Act: relu2
+  - Hidden Size: 3072
+  - Num. Hidden Layers: 32
+  - Max. Position Embeddings: 4096
+  - Torch Dtype: torch.bfloat16
+  - Num Key Value Heads: 8
+  - Vocab. Size: 256000
+  - Top-k: 50
+  - Temperature: 1.0
